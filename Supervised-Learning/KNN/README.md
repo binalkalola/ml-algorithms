@@ -60,3 +60,20 @@ This repository contains a set of hands-on exercises exploring the K-Nearest Nei
 ## 📄 License
 This project is open source and available for educational use.
 
+
+### Evaluation Exercises
+
+This notebook focuses on evaluating the KNN model using different techniques.
+
+It covers:
+
+* Train/Test Split
+* Cross-Validation
+* Learning Curves
+* Hyperparameter Search
+* Data Snooping
+* Time-Series Evaluation
+
+The exercises help understand how to evaluate KNN model performance and avoid common evaluation mistakes.
+
+
